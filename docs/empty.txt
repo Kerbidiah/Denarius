@@ -1,3 +1,0 @@
-Placeholder file to populate the /docs directory
-
-Feel free to delete after actual stuff gets put here
