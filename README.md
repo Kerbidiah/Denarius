@@ -1,5 +1,17 @@
-Denarius - A multi-currency travel budgeting app
+# TBD
 
-Team Members: Alex Janninck, Devin Bell, Nathaniel Farrell, Zayaan Saleem
+## Team Members:
+* Alex Janninck
+* Devin Bell
+* Nathaniel Farrell
+* Zayaan Saleem
 
-Installation Instructions: TBD
+## Installation Instructions
+TBD
+
+## Dev Environment Setup
+[Protocol Buffers](https://github.com/protocolbuffers/protobuf#protobuf-compiler-installation)
+
+for macos `brew install protobuf`
+
+for windows `winget install protobuf`
